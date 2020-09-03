@@ -6,5 +6,5 @@ description: >-
 
 # Project Overview
 
-This page will be published to complete the project for the development of F&B Network Platform by the order from Mr. Jason Jung who is the CEO of MENUTOUR and owner of this project. It will be collaborated with developing company, SV Group, and PMO HS Kim.
+This page will be published to complete the project for the development of F&B Network Platform by the order from Mr. Jason Jung who is the CEO of MENUTOUR and owner of this project. It will collaborate with the developing company, SV Group, and PMO HS Kim.
 
